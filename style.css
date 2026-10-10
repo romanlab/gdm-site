@@ -1,0 +1,6 @@
+body { font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 42rem; margin: 2.5rem auto; padding: 0 1.25rem; color: #1f1a24; }
+h1 { color: #5b2a86; margin-bottom: .25rem; }
+h2 { margin-top: 2rem; font-size: 1.15rem; }
+a { color: #5b2a86; }
+.muted { color: #6b6375; }
+code { background: #f3eef8; padding: 0 .25rem; border-radius: 3px; }
